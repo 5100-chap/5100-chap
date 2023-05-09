@@ -2,7 +2,7 @@
 - 👀 Actualmente estoy interesado en programación a redes neuronales, intelgencia artificial y en ciertos proyectos pequeños
 - 🌱 Aprendiendo diversas formas de lenguaje de programación y estructuras de datos
 - 📫 Contacto: diego313121@tutanota.com
-- Portafolio en https://dbanoslopez-sps-summer22.uc.r.appspot.com
+- Portafolio [aqui](https://5100-chap.github.io/Portfolio-webpage-Angular/home#projects)
 
 <!---
 5100-chap/5100-chap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
